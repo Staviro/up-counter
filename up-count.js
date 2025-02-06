@@ -1,7 +1,6 @@
 'use strict'
 /**
  * Joseph Morukhuladi
- * This library has been perfected
  */
 class Counter {
     constructor(options) {
